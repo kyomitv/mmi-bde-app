@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/logo.jpg",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.kyomi.mmibdeapp"
     },
     "web": {
       "favicon": "./assets/logo.jpg"

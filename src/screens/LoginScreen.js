@@ -49,7 +49,7 @@ export default function LoginScreen({ navigation }) {
         <View style={styles.inputContainer}>
           <TextInput
             style={styles.input}
-            placeholder="votre.email@etudiant.univ-reims.fr"
+            placeholder="prenom.nom@iut-dijon.u-bourgogne.fr"
             placeholderTextColor="#999"
             autoCapitalize="none"
             keyboardType="email-address"
