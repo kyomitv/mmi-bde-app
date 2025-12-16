@@ -2,10 +2,10 @@
 
 Bienvenue sur le dépôt officiel de l'application mobile du BDE (Bureau des Étudiants) MMI Dijon. Cette application est destinée aux étudiants pour suivre l'actualité, accéder à leur carte adhérent et profiter des avantages partenaires.
 
-<img width="1170" height="2376" alt="image" src="https://github.com/user-attachments/assets/b6d4a5aa-c5a0-4be4-a1ef-46cced47a17f" />
-<img width="1170" height="2414" alt="image" src="https://github.com/user-attachments/assets/f34fb702-19e7-4c51-b4d0-a1f4cac394dc" />
-<img width="1170" height="2407" alt="image" src="https://github.com/user-attachments/assets/2b95a12b-40d1-4f33-b62d-9b6e794f5e80" />
-<img width="1170" height="2391" alt="image" src="https://github.com/user-attachments/assets/d0d9b235-8bb2-4a75-b98b-5615348de0b2" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/b6d4a5aa-c5a0-4be4-a1ef-46cced47a17f" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/f34fb702-19e7-4c51-b4d0-a1f4cac394dc" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/2b95a12b-40d1-4f33-b62d-9b6e794f5e80" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/d0d9b235-8bb2-4a75-b98b-5615348de0b2" />
 
 ## ✨ Fonctionnalités
 
